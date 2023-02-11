@@ -1,0 +1,5 @@
+baseURL = "https://SENG-static-web.github.io/"
+languageCode = 'en-us'
+title = 'My Cook Book'
+
+theme = "hugo-cuisine-book"

@@ -1,0 +1,7 @@
+[submodule "webpageTest/themes/tale"]
+	path = webpageTest/themes/tale
+	url = https://github.com/EmielH/tale-hugo.git
+[submodule "webTest/public"]
+	path = webTest/public
+	url = https://github.com/sun00105/SENG-static-web.github.io.git
+	branch = main
